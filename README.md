@@ -2,6 +2,7 @@
 Kalman Filter and Extended Kalman Filter for a simple 2D robot 
 
 
+![fig1](https://user-images.githubusercontent.com/92490915/159530697-c26ed285-dde0-4f69-9678-9a9e6b44e5d8.PNG)
 
 
 https://user-images.githubusercontent.com/92490915/159501050-8b7f6c20-87ad-4cc8-9dfd-71d6eb59bcc7.mp4
